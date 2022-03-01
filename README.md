@@ -2,10 +2,10 @@
 Team Name: Codebrigade
 
 Members: 
-- [Aishwarya Ravi](aishwarya.ravi@sjsu.edu)
-- [Sarinder Virk](sarinder.virk@sjsu.edu)
-- [Supreetha Ajay Mariyappal](supreethaajay.mariyappal@sjsu.edu)
-- [Dharahasini Gangalapudi](dharahasini.gangalapudi@sjsu.edu)
+- [Aishwarya Ravi](mailto:aishwarya.ravi@sjsu.edu)
+- [Sarinder Virk](mailto:sarinder.virk@sjsu.edu)
+- [Supreetha Ajay Mariyappal](mailto:supreethaajay.mariyappal@sjsu.edu)
+- [Dharahasini Gangalapudi](mailto:dharahasini.gangalapudi@sjsu.edu)
 
 Contributions:
 
