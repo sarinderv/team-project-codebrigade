@@ -16,7 +16,7 @@ Contributions:
 
 [GitHub Repo](https://github.com/gopinathsjsu/team-project-codebrigade/)
 
-[Project Board]()
+[Project Board](https://brigade.atlassian.net/jira/dashboards/10001)
 
 [Project Journal]()
 
